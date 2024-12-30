@@ -1,5 +1,5 @@
 {
-    "name": "nextgraphio/module-magento-core",
+    "name": "nextgraph/module-magento-core",
     "description": "NextPwa - Magento headless",
     "require": {
         "php": "~8.0.0||~8.1.0||~8.2.0||~8.3.0",
